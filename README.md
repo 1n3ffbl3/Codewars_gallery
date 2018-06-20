@@ -1,5 +1,6 @@
 # Codewars Gallery
 
+<<<<<<< HEAD
 1. [code](), [https://github.com/1n3ffbl3/reversed-strings](https://github.com/1n3ffbl3/reversed-strings)
 2. [code](), [https://github.com/1n3ffbl3/String-Repeat-Marta](https://github.com/1n3ffbl3/String-Repeat-Marta) 
 3. [code](), [https://github.com/1n3ffbl3/RemoveNumberFromString](https://github.com/1n3ffbl3/RemoveNumberFromString)  
