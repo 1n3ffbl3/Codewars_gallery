@@ -1,13 +1,9 @@
 # Codewars Gallery
 
-1. [code](), [https://github.com/1n3ffbl3/GH-WF-Practice-1]()  
-2. [code](), [https://github.com/1n3ffbl3/reversed-strings]()
-3. [code](), [https://github.com/1n3ffbl3/RemoveNumberFromString]()  
-4. [code](), [https://github.com/1n3ffbl3/ClassAverageComparison]()  
-5. [code](), [https://github.com/1n3ffbl3/ConvertNumberToString]()  
-6. [code](), [https://github.com/1n3ffbl3/String-Repeat-Marta]()  
-7. [code](), [https://github.com/1n3ffbl3/programmers-oath-template]()  
-8. [code](), [Project Board]()  
+1. [code](), [https://github.com/1n3ffbl3/reversed-strings](https://github.com/1n3ffbl3/reversed-strings)
+2. [code](), [https://github.com/1n3ffbl3/String-Repeat-Marta](https://github.com/1n3ffbl3/String-Repeat-Marta) 
+3. [code](), [https://github.com/1n3ffbl3/RemoveNumberFromString](https://github.com/1n3ffbl3/RemoveNumberFromString)  
+4. [code](), [https://github.com/1n3ffbl3/ClassAverageComparison](https://github.com/1n3ffbl3/ClassAverageComparison)  
+5. [code](), [https://github.com/1n3ffbl3/ConvertNumberToString](https://github.com/1n3ffbl3/ConvertNumberToString)  
 
-  
 ___
